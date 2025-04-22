@@ -5,11 +5,19 @@
 - 💬 Ask me about **Python, Flask, SQL, Data Analysis**
 - 📫 How to reach me: [prateekchauhan923@gmail.com](mailto:your.email@example.com)
 
-## 🚀 Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flask&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Flask-4479A1?style=flat&logo=mysql&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-3776AB?style=flat&logo=anaconda&logoColor=white)
+## 🛠️: Languages and Tools :
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="60" height="60" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="40" height="40" />&nbsp;
+</div>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pratp-123&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratp-123&layout=compact&theme=radical)
