@@ -7,9 +7,9 @@
 
 ## 🚀 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Anaconda](https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg)
+![Flask](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-Flask-4479A1?style=flat&logo=mysql&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-3776AB?style=flat&logo=anaconda&logoColor=white)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pratp-123&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratp-123&layout=compact&theme=radical)
