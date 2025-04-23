@@ -18,6 +18,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="40" height="40" />&nbsp;
 </div>
 
+
+
+## 🔥: My Leetcode and GitHub Stats :
+
+Leetcode Stats:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/prateek_)
+
+
+#### Posts on Medium:
+<!-- Medium:START -->
+- [Chi-Square Test | COVID-19](https://medium.com/@prateekchauhan923/how-to-identify-and-remove-outliers-a-step-by-step-tutorial-with-python-738a103ae666)
+<!-- Medium:END -->
+
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pratp-123&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratp-123&layout=compact&theme=radical)
