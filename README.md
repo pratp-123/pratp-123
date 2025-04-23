@@ -29,7 +29,7 @@ Leetcode Stats:
 
 #### Posts on Medium:
 <!-- Medium:START -->
-- [Chi-Square Test | COVID-19](https://medium.com/@prateekchauhan923/how-to-identify-and-remove-outliers-a-step-by-step-tutorial-with-python-738a103ae666)
+- [How to Identify and Remove Outliers: A Step-by-Step Tutorial with Python](https://medium.com/@prateekchauhan923/how-to-identify-and-remove-outliers-a-step-by-step-tutorial-with-python-738a103ae666)
 <!-- Medium:END -->
 
 
