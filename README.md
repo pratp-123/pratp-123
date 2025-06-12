@@ -1,8 +1,8 @@
 # Hi 👋, I'm Prateek
 ### A passionate Computer Science Master's Student
 
-- 🌱 I’m currently learning **Data Science Concepts, Advanced SQL, Web Scrapping**
-- 💬 Ask me about **Python, Flask, SQL, Data Analysis**
+- 🌱 I’m currently learning **Data Science Concepts, Advanced SQL, Fast-api**
+- 💬 Ask me about **Python, SQL, Data Analysis**
 - 📫 How to reach me: [prateekchauhan923@gmail.com](mailto:your.email@example.com)
 
 ## 🛠️: Languages and Tools :
