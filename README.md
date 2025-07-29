@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning **Data Science Concepts, Advanced SQL, Fast-api**
 - 💬 Ask me about **Python, SQL, Data Analysis**
 - 📫 How to reach me: [prateekchauhan923@gmail.com](mailto:your.email@example.com)
-- Portfolio Website - https://pratp-123.github.io/My-portfolio/
+- 🧑‍💻 Portfolio Website - https://pratp-123.github.io/My-portfolio/
 
 ## 🛠️: Languages and Tools :
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40" />&nbsp;
